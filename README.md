@@ -1,3 +1,4 @@
+```
 14.42.00: Executing ':org.example.Main.main()'…
 
 > Task :compileJava
@@ -13,3 +14,4 @@ Student[id=3000, name=Matti Mattila] on ilmoittautunut (0 kpl): []
 BUILD SUCCESSFUL in 275ms
 2 actionable tasks: 2 executed
 14.42.00: Execution finished ':org.example.Main.main()'.
+```
